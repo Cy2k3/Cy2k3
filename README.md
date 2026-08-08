@@ -7,3 +7,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cy2k3/Cy2k3/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cy2k3&show_icons=true&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=8B949E&icon_color=38BDF8&border_color=30363D&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cy2k3&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=8B949E&icon_color=38BDF8&border_color=30363D&hide_border=false" />
+</p>
